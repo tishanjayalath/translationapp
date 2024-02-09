@@ -1,7 +1,7 @@
 // handler
 import { HfInference } from "@huggingface/inference";
 
-const HF_ACCESS_TOKEN = "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";
+const HF_ACCESS_TOKEN = "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";
 
 const inference = new HfInference(HF_ACCESS_TOKEN);
 
